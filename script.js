@@ -168,6 +168,9 @@ btn.addEventListener("click", () => {
         } else if (+user_score.innerText < +computer_score.innerText) {
           return confirm("Computer won!\nPress Ok to reload the page;(") ? document.location.reload() : undefined;
         }
+        else {
+          return confirm("Nobody won!\nPress Ok to reload the page!") ? document.location.reload() : undefined;
+        }
       }, 200);
     }
   }
