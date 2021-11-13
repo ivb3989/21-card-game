@@ -1,146 +1,146 @@
 let deckOfCards = [
   {
-    src: "/SVG-cards-1.3/6_of_clubs.svg",
+    src: "SVG-cards-1.3/6_of_clubs.svg",
     value: 6,
   },
   {
-    src: "/SVG-cards-1.3/6_of_diamonds.svg",
+    src: "SVG-cards-1.3/6_of_diamonds.svg",
     value: 6,
   },
   {
-    src: "/SVG-cards-1.3/6_of_hearts.svg",
+    src: "SVG-cards-1.3/6_of_hearts.svg",
     value: 6,
   },
   {
-    src: "/SVG-cards-1.3/6_of_spades.svg",
+    src: "SVG-cards-1.3/6_of_spades.svg",
     value: 6,
   },
   {
-    src: "/SVG-cards-1.3/7_of_clubs.svg",
+    src: "SVG-cards-1.3/7_of_clubs.svg",
     value: 7,
   },
   {
-    src: "/SVG-cards-1.3/7_of_diamonds.svg",
+    src: "SVG-cards-1.3/7_of_diamonds.svg",
     value: 7,
   },
   {
-    src: "/SVG-cards-1.3/7_of_hearts.svg",
+    src: "SVG-cards-1.3/7_of_hearts.svg",
     value: 7,
   },
   {
-    src: "/SVG-cards-1.3/7_of_spades.svg",
+    src: "SVG-cards-1.3/7_of_spades.svg",
     value: 7,
   },
   {
-    src: "/SVG-cards-1.3/8_of_clubs.svg",
+    src: "SVG-cards-1.3/8_of_clubs.svg",
     value: 8,
   },
   {
-    src: "/SVG-cards-1.3/8_of_diamonds.svg",
+    src: "SVG-cards-1.3/8_of_diamonds.svg",
     value: 8,
   },
   {
-    src: "/SVG-cards-1.3/8_of_hearts.svg",
+    src: "SVG-cards-1.3/8_of_hearts.svg",
     value: 8,
   },
   {
-    src: "/SVG-cards-1.3/8_of_spades.svg",
+    src: "SVG-cards-1.3/8_of_spades.svg",
     value: 8,
   },
   {
-    src: "/SVG-cards-1.3/9_of_clubs.svg",
+    src: "SVG-cards-1.3/9_of_clubs.svg",
     value: 9,
   },
   {
-    src: "/SVG-cards-1.3/9_of_diamonds.svg",
+    src: "SVG-cards-1.3/9_of_diamonds.svg",
     value: 9,
   },
   {
-    src: "/SVG-cards-1.3/9_of_hearts.svg",
+    src: "SVG-cards-1.3/9_of_hearts.svg",
     value: 9,
   },
   {
-    src: "/SVG-cards-1.3/9_of_spades.svg",
+    src: "SVG-cards-1.3/9_of_spades.svg",
     value: 9,
   },
   {
-    src: "/SVG-cards-1.3/10_of_clubs.svg",
+    src: "SVG-cards-1.3/10_of_clubs.svg",
     value: 10,
   },
   {
-    src: "/SVG-cards-1.3/10_of_diamonds.svg",
+    src: "SVG-cards-1.3/10_of_diamonds.svg",
     value: 10,
   },
   {
-    src: "/SVG-cards-1.3/10_of_hearts.svg",
+    src: "SVG-cards-1.3/10_of_hearts.svg",
     value: 10,
   },
   {
-    src: "/SVG-cards-1.3/10_of_spades.svg",
+    src: "SVG-cards-1.3/10_of_spades.svg",
     value: 10,
   },
   {
-    src: "/SVG-cards-1.3/ace_of_clubs.svg",
+    src: "SVG-cards-1.3/ace_of_clubs.svg",
     value: 11,
   },
   {
-    src: "/SVG-cards-1.3/ace_of_diamonds.svg",
+    src: "SVG-cards-1.3/ace_of_diamonds.svg",
     value: 11,
   },
   {
-    src: "/SVG-cards-1.3/ace_of_hearts.svg",
+    src: "SVG-cards-1.3/ace_of_hearts.svg",
     value: 11,
   },
   {
-    src: "/SVG-cards-1.3/ace_of_spades.svg",
+    src: "SVG-cards-1.3/ace_of_spades.svg",
     value: 11,
   },
   {
-    src: "/SVG-cards-1.3/jack_of_clubs.svg",
+    src: "SVG-cards-1.3/jack_of_clubs.svg",
     value: 2,
   },
   {
-    src: "/SVG-cards-1.3/jack_of_diamonds.svg",
+    src: "SVG-cards-1.3/jack_of_diamonds.svg",
     value: 2,
   },
   {
-    src: "/SVG-cards-1.3/jack_of_hearts.svg",
+    src: "SVG-cards-1.3/jack_of_hearts.svg",
     value: 2,
   },
   {
-    src: "/SVG-cards-1.3/jack_of_spades.svg",
+    src: "SVG-cards-1.3/jack_of_spades.svg",
     value: 2,
   },
   {
-    src: "/SVG-cards-1.3/king_of_clubs.svg",
+    src: "SVG-cards-1.3/king_of_clubs.svg",
     value: 4,
   },
   {
-    src: "/SVG-cards-1.3/king_of_diamonds.svg",
+    src: "SVG-cards-1.3/king_of_diamonds.svg",
     value: 4,
   },
   {
-    src: "/SVG-cards-1.3/king_of_hearts.svg",
+    src: "SVG-cards-1.3/king_of_hearts.svg",
     value: 4,
   },
   {
-    src: "/SVG-cards-1.3/king_of_spades.svg",
+    src: "SVG-cards-1.3/king_of_spades.svg",
     value: 4,
   },
   {
-    src: "/SVG-cards-1.3/queen_of_clubs.svg",
+    src: "SVG-cards-1.3/queen_of_clubs.svg",
     value: 3,
   },
   {
-    src: "/SVG-cards-1.3/queen_of_diamonds.svg",
+    src: "SVG-cards-1.3/queen_of_diamonds.svg",
     value: 3,
   },
   {
-    src: "/SVG-cards-1.3/queen_of_hearts.svg",
+    src: "SVG-cards-1.3/queen_of_hearts.svg",
     value: 3,
   },
   {
-    src: "/SVG-cards-1.3/queen_of_spades.svg",
+    src: "SVG-cards-1.3/queen_of_spades.svg",
     value: 3,
   },
 ];
