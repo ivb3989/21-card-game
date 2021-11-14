@@ -150,8 +150,6 @@ if (!user.innerText) {
   user.innerText = "User";
 }
 
-let score1 = 0;
-let score2 = 0;
 btn.addEventListener("click", () => {
   if (+attempts.innerText < 3) {
     let src1 = Math.floor(Math.random() * deckOfCards.length) + 1;
